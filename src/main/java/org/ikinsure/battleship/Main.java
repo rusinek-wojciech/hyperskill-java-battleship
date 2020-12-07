@@ -1,7 +1,7 @@
-package org.ikinsure.medium.battleship;
+package org.ikinsure.battleship;
 
 import java.util.Scanner;
-import static org.ikinsure.medium.battleship.BoardManager.*;
+import static org.ikinsure.battleship.BoardManager.*;
 
 public class Main {
 

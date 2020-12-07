@@ -1,4 +1,4 @@
-package org.ikinsure.medium.battleship;
+package org.ikinsure.battleship;
 
 public class BoardManager {
 
